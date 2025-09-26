@@ -87,7 +87,7 @@ public class PlayerMove : MonoBehaviour
  
             audioSource.PlayOneShot(sfxJump); // rejoue le son du saut (⚠ doublon aussi)
 
-            rb.AddForce(Vector2.up * 700f); // applique une force vers le haut
+            rb.AddForce(Vector2.up * 500f); // applique une force vers le haut
         }
         
     }

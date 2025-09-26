@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: 4cdcfe69e69dded4b8020f6277a26db8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 112707917145889478
+    second: porteRuine_0
+  - first:
+      213: 6725939451311114818
+    second: porteRuine_1
+  - first:
+      213: 6198433999503649790
+    second: porteRuine_2
+  - first:
+      213: 6677799818438211149
+    second: porteRuine_3
+  - first:
+      213: -875934104719839243
+    second: porteRuine_4
+  - first:
+      213: -5837247473116618576
+    second: porteRuine_5
+  - first:
+      213: -3238894037203841276
+    second: porteRuine_6
+  - first:
+      213: -8075571892716507430
+    second: porteRuine_7
+  - first:
+      213: -8647471548377377572
+    second: porteRuine_8
+  - first:
+      213: -3709005190012749829
+    second: porteRuine_9
+  - first:
+      213: -1114954731196035068
+    second: porteRuine_10
+  - first:
+      213: -2040887204205107324
+    second: porteRuine_11
+  - first:
+      213: 8375232279081339534
+    second: porteRuine_12
+  - first:
+      213: -7662083013603730
+    second: porteRuine_13
+  - first:
+      213: 2704202720187849076
+    second: porteRuine_14
+  - first:
+      213: 1786647182311491315
+    second: porteRuine_15
+  - first:
+      213: -5038686327474065713
+    second: porteRuine_16
+  - first:
+      213: 3144864757634356897
+    second: porteRuine_17
+  - first:
+      213: 8618899817097281889
+    second: porteRuine_18
+  - first:
+      213: 848767822999673862
+    second: porteRuine_19
+  - first:
+      213: 7315809753683536984
+    second: porteRuine_20
+  - first:
+      213: -268988445381811066
+    second: porteRuine_21
+  - first:
+      213: 8779829337422547797
+    second: porteRuine_22
+  - first:
+      213: -5566446020286912758
+    second: porteRuine_23
+  - first:
+      213: -4268472742795490991
+    second: porteRuine_24
+  - first:
+      213: 4298825538546425642
+    second: porteRuine_25
+  - first:
+      213: -3109316516370292071
+    second: porteRuine_26
+  - first:
+      213: -6342419316866631150
+    second: porteRuine_27
+  - first:
+      213: -8503207217310806249
+    second: porteRuine_28
+  - first:
+      213: 8202452501618884000
+    second: porteRuine_29
+  - first:
+      213: 5533503658875542063
+    second: porteRuine_30
+  - first:
+      213: -2420699809875604556
+    second: porteRuine_31
+  - first:
+      213: -6503878981541211863
+    second: porteRuine_32
+  - first:
+      213: -1423927430708397862
+    second: porteRuine_33
+  - first:
+      213: -8604831834183076625
+    second: porteRuine_34
+  - first:
+      213: -3791314861190610521
+    second: porteRuine_35
+  - first:
+      213: -9214001768180550083
+    second: porteRuine_36
+  - first:
+      213: -3132532251153755289
+    second: porteRuine_37
+  - first:
+      213: -4154432971961659559
+    second: porteRuine_38
+  - first:
+      213: 7332982469871735988
+    second: porteRuine_39
+  - first:
+      213: 4470220833010754717
+    second: porteRuine_40
+  - first:
+      213: -900311567502607597
+    second: porteRuine_41
+  - first:
+      213: 2611355741425288978
+    second: porteRuine_42
+  - first:
+      213: 2784093026085366450
+    second: porteRuine_43
+  - first:
+      213: 6863500794741533562
+    second: porteRuine_44
+  - first:
+      213: 4593796467970444620
+    second: porteRuine_45
+  - first:
+      213: 5134768695188101352
+    second: porteRuine_46
+  - first:
+      213: -8516233427261334813
+    second: porteRuine_47
+  - first:
+      213: 8430061518003235250
+    second: porteRuine_48
+  - first:
+      213: -8131498256673845778
+    second: porteRuine_49
+  - first:
+      213: 2284989995798146518
+    second: porteRuine_50
+  - first:
+      213: -8217186182314322158
+    second: porteRuine_51
+  - first:
+      213: 5724280255586595142
+    second: porteRuine_52
+  - first:
+      213: -4639499404902536962
+    second: porteRuine_53
+  - first:
+      213: 8739142896787663203
+    second: porteRuine_54
+  - first:
+      213: -5550374738759152423
+    second: porteRuine_55
+  - first:
+      213: -2193964614117076074
+    second: porteRuine_56
+  - first:
+      213: 1389014588997878727
+    second: porteRuine_57
+  - first:
+      213: 8856631961741414240
+    second: porteRuine_58
+  - first:
+      213: -5437458419752705786
+    second: porteRuine_59
+  - first:
+      213: 1358642865345835108
+    second: porteRuine_60
+  - first:
+      213: 5248633299442226138
+    second: porteRuine_61
+  - first:
+      213: 564169052686645901
+    second: porteRuine_62
+  - first:
+      213: 3861046677514625785
+    second: porteRuine_63
+  - first:
+      213: -1417480069633600275
+    second: porteRuine_64
+  - first:
+      213: 5643869574883419625
+    second: porteRuine_65
+  - first:
+      213: -3058281850135228254
+    second: porteRuine_66
+  - first:
+      213: -4732677292467840998
+    second: porteRuine_67
+  - first:
+      213: -367392078510017721
+    second: porteRuine_68
+  - first:
+      213: 3481379398269606118
+    second: porteRuine_69
+  - first:
+      213: -8387813887623287825
+    second: porteRuine_70
+  - first:
+      213: 4998890091885056541
+    second: porteRuine_71
+  - first:
+      213: -9191381604277690566
+    second: porteRuine_72
+  - first:
+      213: -6968883695290117727
+    second: porteRuine_73
+  - first:
+      213: -1546656538226796948
+    second: porteRuine_74
+  - first:
+      213: -6299870095791435160
+    second: porteRuine_75
+  - first:
+      213: 6926239055239425694
+    second: porteRuine_76
+  - first:
+      213: -8134322264671190914
+    second: porteRuine_77
+  - first:
+      213: -3603538097558659508
+    second: porteRuine_78
+  - first:
+      213: -1753985911298509044
+    second: porteRuine_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: porteRuine_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 567
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cadad4e04b609100800000000000000
+      internalID: 112707917145889478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 567
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a4f20ab46575d50800000000000000
+      internalID: 6725939451311114818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 567
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb6e10c1e2450650800000000000000
+      internalID: 6198433999503649790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 567
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d467d2bed8f4cac50800000000000000
+      internalID: 6677799818438211149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 567
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff2689929e08d3f0800000000000000
+      internalID: -875934104719839243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 512
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b066daa95eedfea0800000000000000
+      internalID: -5837247473116618576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 512
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f855798032d03d0800000000000000
+      internalID: -3238894037203841276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 512
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adee088562ecdef80800000000000000
+      internalID: -8075571892716507430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 512
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd45ba961720ef780800000000000000
+      internalID: -8647471548377377572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 512
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7b53b4e67f68cc0800000000000000
+      internalID: -3709005190012749829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 516
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4005b6a4492e680f0800000000000000
+      internalID: -1114954731196035068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 516
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487e6be96ef4da3e0800000000000000
+      internalID: -2040887204205107324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_12
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 516
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a470a426dca3470800000000000000
+      internalID: 8375232279081339534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 458
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e0cb74067c4eff0800000000000000
+      internalID: -7662083013603730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 458
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4791179eb02478520800000000000000
+      internalID: 2704202720187849076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 458
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f601a075227bc810800000000000000
+      internalID: 1786647182311491315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 458
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce6a443b7df21ab0800000000000000
+      internalID: -5038686327474065713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 458
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6d079b5ddc4ab20800000000000000
+      internalID: 3144864757634356897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 465
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16143c008bb7c9770800000000000000
+      internalID: 8618899817097281889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 465
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c5daa86dd67cb00800000000000000
+      internalID: 848767822999673862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_20
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 465
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c25acc53af68560800000000000000
+      internalID: 7315809753683536984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 402
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68425502f6c544cf0800000000000000
+      internalID: -268988445381811066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 402
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bcf9dc34838d970800000000000000
+      internalID: 8779829337422547797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 402
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07696b36d200c2b0800000000000000
+      internalID: -5566446020286912758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 402
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159cc30e7a653c4c0800000000000000
+      internalID: -4268472742795490991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 402
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fdf681d0f78ab30800000000000000
+      internalID: 4298825538546425642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_26
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 414
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9926e7b2a1d79d4d0800000000000000
+      internalID: -3109316516370292071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 414
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ab6912c333bf7a0800000000000000
+      internalID: -6342419316866631150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_28
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 414
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fc6a8761a8ef980800000000000000
+      internalID: -8503207217310806249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 348
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adf10e7717f4d170800000000000000
+      internalID: 8202452501618884000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 348
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ad99e8244facc40800000000000000
+      internalID: 5533503658875542063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 348
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb428c2952f76ed0800000000000000
+      internalID: -2420699809875604556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 348
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9215b1b76849db5a0800000000000000
+      internalID: -6503878981541211863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 348
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8f0bacb813d3ce0800000000000000
+      internalID: -1423927430708397862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 369
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe47b83890f759880800000000000000
+      internalID: -8604831834183076625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 371
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a10313983b826bc0800000000000000
+      internalID: -3791314861190610521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_36
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 371
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36f6cfa53a412080800000000000000
+      internalID: -9214001768180550083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 293
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7639682b3820784d0800000000000000
+      internalID: -3132532251153755289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 293
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f0e0f193d7856c0800000000000000
+      internalID: -4154432971961659559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 293
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b41fdc54bcf3c560800000000000000
+      internalID: 7332982469871735988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_40
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 293
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d942823d92a690e30800000000000000
+      internalID: 4470220833010754717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 293
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bf4df36637183f0800000000000000
+      internalID: -900311567502607597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_42
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 312
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217c4d516366d3420800000000000000
+      internalID: 2611355741425288978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_43
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 312
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bae5714bd513a620800000000000000
+      internalID: 2784093026085366450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_44
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 312
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b2e22cb9d004f50800000000000000
+      internalID: 6863500794741533562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 238
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d82d37c8170cf30800000000000000
+      internalID: 4593796467970444620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 238
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e89b705cec524740800000000000000
+      internalID: 5134768695188101352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 238
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ead7cf91d240d980800000000000000
+      internalID: -8516233427261334813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_48
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 238
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9e54749489df470800000000000000
+      internalID: 8430061518003235250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 238
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed4f370b6d172f80800000000000000
+      internalID: -8131498256673845778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_50
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 264
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddaed67b4ae5bf10800000000000000
+      internalID: 2284989995798146518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_51
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 183
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21718e524b0b6fd80800000000000000
+      internalID: -8217186182314322158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_52
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 182
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641750d509ab07f40800000000000000
+      internalID: 5724280255586595142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_53
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 183
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e5235fdf2d9fb0800000000000000
+      internalID: -4639499404902536962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_54
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 183
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3692864a92ca74970800000000000000
+      internalID: 8739142896787663203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 182
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc85fd059b19f2b0800000000000000
+      internalID: -5550374738759152423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_56
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 210
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69356cdbec87d81e0800000000000000
+      internalID: -2193964614117076074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_57
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 210
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3cd0dc865c64310800000000000000
+      internalID: 1389014588997878727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_58
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 210
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fc7f148d319ea70800000000000000
+      internalID: 8856631961741414240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 127
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601eea940644a84b0800000000000000
+      internalID: -5437458419752705786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_60
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 127
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460be85dc7edad210800000000000000
+      internalID: 1358642865345835108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_61
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 127
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad35a896d24e6d840800000000000000
+      internalID: 5248633299442226138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_62
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 127
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8af7aaa3c454d700800000000000000
+      internalID: 564169052686645901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2267a1f71359530800000000000000
+      internalID: 3861046677514625785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_64
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 159
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de41b450369145ce0800000000000000
+      internalID: -1417480069633600275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_65
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 159
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5af81d97d035e40800000000000000
+      internalID: 5643869574883419625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_66
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 159
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a05aab5cdcce85d0800000000000000
+      internalID: -3058281850135228254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_67
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1895e9c317225eb0800000000000000
+      internalID: -4732677292467840998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_68
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 73
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7433e13e9d2c6eaf0800000000000000
+      internalID: -367392078510017721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_69
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 73
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8193a1e18505030800000000000000
+      internalID: 3481379398269606118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_70
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 72
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb2022b5bf789b80800000000000000
+      internalID: -8387813887623287825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_71
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 72
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d125706ad00af5540800000000000000
+      internalID: 4998890091885056541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_72
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 108
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fd7f10127a17080800000000000000
+      internalID: -9191381604277690566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_73
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 108
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1983da33d894f90800000000000000
+      internalID: -6968883695290117727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_74
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 108
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66d471b21c298ae0800000000000000
+      internalID: -1546656538226796948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 17
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862de39a68d5298a0800000000000000
+      internalID: -6299870095791435160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_76
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 17
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9eabf459b1fe1060800000000000000
+      internalID: 6926239055239425694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_77
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 17
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7009bd6ff41d1f80800000000000000
+      internalID: -8134322264671190914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_78
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 17
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4edd605139adfdc0800000000000000
+      internalID: -3603538097558659508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porteRuine_79
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 17
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0733005b1798a7e0800000000000000
+      internalID: -1753985911298509044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      porteRuine_0: 112707917145889478
+      porteRuine_1: 6725939451311114818
+      porteRuine_10: -1114954731196035068
+      porteRuine_11: -2040887204205107324
+      porteRuine_12: 8375232279081339534
+      porteRuine_13: -7662083013603730
+      porteRuine_14: 2704202720187849076
+      porteRuine_15: 1786647182311491315
+      porteRuine_16: -5038686327474065713
+      porteRuine_17: 3144864757634356897
+      porteRuine_18: 8618899817097281889
+      porteRuine_19: 848767822999673862
+      porteRuine_2: 6198433999503649790
+      porteRuine_20: 7315809753683536984
+      porteRuine_21: -268988445381811066
+      porteRuine_22: 8779829337422547797
+      porteRuine_23: -5566446020286912758
+      porteRuine_24: -4268472742795490991
+      porteRuine_25: 4298825538546425642
+      porteRuine_26: -3109316516370292071
+      porteRuine_27: -6342419316866631150
+      porteRuine_28: -8503207217310806249
+      porteRuine_29: 8202452501618884000
+      porteRuine_3: 6677799818438211149
+      porteRuine_30: 5533503658875542063
+      porteRuine_31: -2420699809875604556
+      porteRuine_32: -6503878981541211863
+      porteRuine_33: -1423927430708397862
+      porteRuine_34: -8604831834183076625
+      porteRuine_35: -3791314861190610521
+      porteRuine_36: -9214001768180550083
+      porteRuine_37: -3132532251153755289
+      porteRuine_38: -4154432971961659559
+      porteRuine_39: 7332982469871735988
+      porteRuine_4: -875934104719839243
+      porteRuine_40: 4470220833010754717
+      porteRuine_41: -900311567502607597
+      porteRuine_42: 2611355741425288978
+      porteRuine_43: 2784093026085366450
+      porteRuine_44: 6863500794741533562
+      porteRuine_45: 4593796467970444620
+      porteRuine_46: 5134768695188101352
+      porteRuine_47: -8516233427261334813
+      porteRuine_48: 8430061518003235250
+      porteRuine_49: -8131498256673845778
+      porteRuine_5: -5837247473116618576
+      porteRuine_50: 2284989995798146518
+      porteRuine_51: -8217186182314322158
+      porteRuine_52: 5724280255586595142
+      porteRuine_53: -4639499404902536962
+      porteRuine_54: 8739142896787663203
+      porteRuine_55: -5550374738759152423
+      porteRuine_56: -2193964614117076074
+      porteRuine_57: 1389014588997878727
+      porteRuine_58: 8856631961741414240
+      porteRuine_59: -5437458419752705786
+      porteRuine_6: -3238894037203841276
+      porteRuine_60: 1358642865345835108
+      porteRuine_61: 5248633299442226138
+      porteRuine_62: 564169052686645901
+      porteRuine_63: 3861046677514625785
+      porteRuine_64: -1417480069633600275
+      porteRuine_65: 5643869574883419625
+      porteRuine_66: -3058281850135228254
+      porteRuine_67: -4732677292467840998
+      porteRuine_68: -367392078510017721
+      porteRuine_69: 3481379398269606118
+      porteRuine_7: -8075571892716507430
+      porteRuine_70: -8387813887623287825
+      porteRuine_71: 4998890091885056541
+      porteRuine_72: -9191381604277690566
+      porteRuine_73: -6968883695290117727
+      porteRuine_74: -1546656538226796948
+      porteRuine_75: -6299870095791435160
+      porteRuine_76: 6926239055239425694
+      porteRuine_77: -8134322264671190914
+      porteRuine_78: -3603538097558659508
+      porteRuine_79: -1753985911298509044
+      porteRuine_8: -8647471548377377572
+      porteRuine_9: -3709005190012749829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
