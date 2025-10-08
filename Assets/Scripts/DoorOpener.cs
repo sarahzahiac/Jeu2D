@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
  
 public class DoorOpener : MonoBehaviour
 {
@@ -23,6 +24,8 @@ public class DoorOpener : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             doorAnimator.SetTrigger("CloseDoor");
+            SceneManager.LoadScene("Victory"); //CHANGE IMMEDiatement de scene vers victory
+            
         }
     }
 }
