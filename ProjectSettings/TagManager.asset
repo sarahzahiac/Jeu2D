@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Hazard
+  - Droop
+  - Acid
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
